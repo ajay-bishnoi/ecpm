@@ -1,6 +1,6 @@
 import React from "react";
 import { FOOTER_LINKS_DATA } from "../../utils/helper";
-import footerLogo from "../../assets/images/svg/logo.png";
+import footerLogo from "../../assets/images/webp/logo-ecpm.webp";
 import { Link } from "react-router-dom";
 
 const Footer = () => {

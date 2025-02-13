@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { NAV_ITEMS_DATA } from "../../utils/helper";
 import CommonButton from "./CommonButton";
-import logo from "../../assets/images/webp/ecpm-logo.webp";
+import logo from "../../assets/images/webp/logo-ecpm.webp";
 import phon from "../../assets/images/svg/phon.svg";
 import message from "../../assets/images/svg/message.svg";
 import phonPlus from "../../assets/images/svg/phon-plus.svg";
@@ -51,10 +51,10 @@ const Header = () => {
             <a href="/" className="max-xl:hidden">
               <img
                 loading="lazy"
-                className="w-fit object-contain h-[51px]"
+                className="w-fit object-contain h-[64px]"
                 src={logo}
                 width={44}
-                height={51}
+                height={64}
                 alt="logo"
               />
             </a>
