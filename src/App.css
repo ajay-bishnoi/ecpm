@@ -1,0 +1,16 @@
+* {
+  scroll-behavior: smooth !important;
+  font-family: "Inter", sans-serif !important;
+}
+
+.swiper {
+  width: 100%;
+  max-width: 1140px;
+  margin-top: 45px;
+  height: 100%;
+}
+
+.swiper-slide {
+  display: flex !important;
+  justify-content: center !important;
+}

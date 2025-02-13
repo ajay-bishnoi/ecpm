@@ -1,0 +1,15 @@
+export const ABOUT_PATH_LINK = "/about-us";
+export const SERVICE_PATH_LINK = "/our-services";
+export const SERVICE_TEXT_PATH_LINK = "/our-services/#services";
+export const TRACKING_PATH_LINK = "/tracking";
+export const NETWORK_PATH_LINK = "/network";
+export const PAYMENT_PATH_LINK = "/payment";
+export const ContactUs_PATH_LINK = "/contact-us";
+export const ABOUT_TEXT_PATH_LINK = "/about-us/#aboutHero";
+export const SERVICES_TEXT_PATH_LINK = "/our-services/#servicesHero";
+export const TRACKING_TEXT_PATH_LINK = "/tracking/#trackingHero";
+export const NETWORK_TEXT_PATH_LINK = "/network/#networkHero";
+export const PAYMENT_TEXT_PATH_LINK = "/payment/#paymentHero";
+export const ContactUs_TEXT_PATH_LINK = "/contact-us/#contactHero";
+export const QUOTE_PATH_LINK = "/#quote";
+export const READ_PATH_LINK = "/#read";
