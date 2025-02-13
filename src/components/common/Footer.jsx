@@ -17,9 +17,9 @@ const Footer = () => {
                       rel="preload"
                       src={footerLogo}
                       alt="logo"
-                      width={69}
-                      height={80}
-                      className="w-fit xl:h-[70px] h-20 "
+                      width={70}
+                      height={70}
+                      className="w-fit xl:h-[70px] md:h-16  h-10"
                     />
                   </a>
                   <p className="mt-4 max-sm:text-sm lg:max-w-[314px] text-white opacity-70 font-normal text-base !leading-135">
