@@ -10,14 +10,17 @@ import Payment from "./components/pages/Payment";
 import Network from "./components/pages/Network";
 import Tracking from "./components/pages/Tracking";
 import AboutUs from "./components/pages/AboutUs";
+import BillsPage from "./components/pages/BillsPage";
 import {
   ABOUT_PATH_LINK,
+  BILL_PATH_LINK,
   ContactUs_PATH_LINK,
   NETWORK_PATH_LINK,
   PAYMENT_PATH_LINK,
   SERVICE_PATH_LINK,
   TRACKING_PATH_LINK,
 } from "./utils/constants";
+
 
 function App() {
   return (
@@ -30,6 +33,7 @@ function App() {
         <Route path={TRACKING_PATH_LINK} element={<Tracking />} />
         <Route path={NETWORK_PATH_LINK} element={<Network />} />
         <Route path={PAYMENT_PATH_LINK} element={<Payment />} />
+        <Route path={BILL_PATH_LINK} element={<BillsPage />} />
         <Route path={ContactUs_PATH_LINK} element={<ContactUs />} />
       </Routes>
       <GetFreeQuote />

@@ -1,4 +1,5 @@
 export const ABOUT_PATH_LINK = "/about-us";
+export const BILL_PATH_LINK = "/bills";
 export const SERVICE_PATH_LINK = "/our-services";
 export const SERVICE_TEXT_PATH_LINK = "/our-services/#services";
 export const TRACKING_PATH_LINK = "/tracking";

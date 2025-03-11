@@ -27,6 +27,7 @@ module.exports = {
       backgroundImage: {
         hero: "url(./assets/images/webp/hero-homepage.webp)",
         about: "url(./assets/images/webp/hero-about.webp)",
+        bill: "url(./assets/images/webp/hero-bill.webp)",
         services: "url(./assets/images/webp/hero-services.webp)",
         tracking: "url(./assets/images/webp/hero-tracking.webp)",
         network: "url(./assets/images/webp/hero-network.webp)",

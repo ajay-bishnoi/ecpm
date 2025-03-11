@@ -150,8 +150,8 @@ const Header = () => {
             ))}
             <li className="w-full text-center md:hidden">
               <CommonButton
-                href="tel:+91-9226218651"
-                text="Enquiry Now"
+                href="/bills"
+                text="Bills"
                 className="bg-light-orange text-white max-w-[146px]  text-nowrap hover:text-light-orange hover:border-light-orange hover:bg-white hover:shadow-[0px_0px_10px_0px_inset_#FD8447]"
               />
             </li>
@@ -167,8 +167,8 @@ const Header = () => {
           <div className="flex items-center sm:gap-6 gap-3 w-full justify-end">
             <div className="flex items-center gap-7 justify-end max-sm:hidden w-full">
               <CommonButton
-                href="tel:+91- 9226218651"
-                text="Enquiry Now"
+                href="/bills"
+                text="Bills"
                 className="bg-light-orange max-sm:text-sm text-white max-w-[146px]  text-nowrap hover:text-light-orange hover:border-light-orange hover:bg-white hover:shadow-[0px_0px_10px_0px_inset_#FD8447]"
               />
               <CommonButton
